@@ -1,4 +1,4 @@
-## Implementation Next.JS and Sanity.io
+## Implementation Next.JS 13, with Next Auth and Mongo DB
 
 ![alt text](./public/assets/images/screen.png)
 
